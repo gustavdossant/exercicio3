@@ -4,4 +4,4 @@ for (let i = 1; i <= numero; i++) {
     contagem += i + " ";
 }
 contagem += "Acabou!";
-console.log(contagem);
+alert(contagem);
